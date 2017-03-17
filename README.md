@@ -1,5 +1,6 @@
 # LibertyBSD
-user manual for new LibertyBSD users
+User manual for new LibertyBSD users
+
 The goal of this document is to help new LibertyBSD users with installing en configuring their new OS.
 This document is not finished yet, we need some help with adding the steps needed to get the
 Xfce Desktop Environment correctly installed on LibertBSD.
