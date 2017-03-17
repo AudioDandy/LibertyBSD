@@ -12,7 +12,7 @@ After this the steps to install the following software will be added:
 - IceCat web-browser? (would be great!)
 
 If you help use with completing this document please download the last version of the document
-and add the requested info.
+and add the requested info. (and change the version number)
 Thanks in advance!
 
 Maarten van Druten
